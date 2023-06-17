@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{1BC54C83-19C6-4C40-8A04-00C9EFDF10F8}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CanadaHolidaysChallenge/AppShell.xaml">
+    <Files>
+      <File FileName="CanadaHolidaysChallenge/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/AppShell.xaml" Line="14" Column="9" />
+      <File FileName="CanadaHolidaysChallenge/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/App.xaml" Line="15" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/Core/Model/Holiday.cs" Line="1" Column="1" />
+      <File FileName="CanadaHolidaysChallenge/Core/Services/HolidayService.cs" Line="41" Column="23" />
+      <File FileName="CanadaHolidaysChallenge/Core/ViewModel/BaseViewModel.cs" Line="23" Column="4" />
+      <File FileName="CanadaHolidaysChallenge/Core/ViewModel/HolidayViewModel.cs" Line="43" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CanadaHolidaysChallenge" expanded="True">
+            <Node name="CanadaHolidaysChallenge" expanded="True" selected="True">
+              <Node name="Core" expanded="True">
+                <Node name="Model" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="ViewModel" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CanadaHolidaysChallenge PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
